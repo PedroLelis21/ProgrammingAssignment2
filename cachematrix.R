@@ -1,4 +1,4 @@
-## R Programming - PA2: Lexical Scoping
+## R Programming - ProgrammingAssignment2: Lexical Scoping
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
